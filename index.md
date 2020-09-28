@@ -2,122 +2,96 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Kuantum Teknolojileri Hackathonu KTHack2020 
+## 10-11 Ekim Online
 
-[Link to another page](./another-page.html).
+ Dünyada hızla gelişmekte olan kuantum teknolojileri alanına dair ülkemizde de yüksek bir ilgi bulunuyor. KTHack2020  kuantum teknolojileriyle ilgilenen meraklıları, uzmanları ve akademisyenleri buluşturuyor. Bu kapsamda QTurkey/QWorld olarak düzenleyeceğimiz 2. Hackathonumuzu bu sene tüm kuantum teknolojileri alt başlıklarını kapsayacak şekilde genişlettik. 
 
-There should be whitespace between paragraphs.
+Ekipler kuantum simülasyon, kuantum bilgisayım, kuantum algılama, kuantum iletişim ve daha ötesi alanlarda fikir, proje ve uygulama geliştirebilirler. Hackathona isterseniz bireysel, isterseniz ekibinizle katılabilirsiniz.  Bireysel başvurular hackathon öncesi uygun grupların oluşturulması için yönlendirilecektir.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Hackathon’da 3 ana kategoride ödüller verilecektir:
 
-# Header 1
+* Akademik/Bilimsel Çalışmalar
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* Endüstriyel/Teknolojik Çözümler
 
-## Header 2
+* Eğitim ve Yaygınlaştırma Materyalleri
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+​
+PAVOTEK sponsorluğunda 3 kategoride toplam ödül miktarı 10.000 TL'dir
 
-### Header 3
+​Hackathon’a katılan ekipler fikir, proje veya uygulamalarını bu kategorilerden birisi altında değerlendirmeye sunacaklardır. Her bir kategoride ekiplerin yapacağı sunumlar alanın uzmanları olan jüri üyeleri tarafından değerlendirilecektir. 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Hackathon’a hazırlık etkinlikleri:
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Hackathon öncesinde kuantum teknolojilerine yönelik sertifikalı atölye ve eğitimler düzenlenecek olup katılım ücretsiz ve opsiyoneldir. 
 
-#### Header 4
+ 
+* Introduction to Quantum Programming Workshop (Workshop hakkında detaylı bilgi ve başvuru için [tıklayınız](https://docs.google.com/forms/d/e/1FAIpQLScoq8A_BQ8F98IUrVElN3MCIfYp6L7nGyVcVtVoq_rqPtww2w/closedform).)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+* Kuantum teknolojilerinin çeşitli sektörlerde kullanım örneklerine dair alan uzmanlarından sunuşlar
 
-##### Header 5
+* Dünyada ve Türkiye’de kuantum teknolojilerinin mevcut durumu üzerine oturum
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+ 
+## Katılım Koşulları
 
-###### Header 6
+Hackathon online düzenlenecektir. Hackathona katılım ücretsizdir, etkinliğin düzenlenmesinde görev almamış herkes başvuruda bulunabilir. Kadın ve dezavantajlı bireylerin başvuruları önceliklendirilecektir. Katılımcılarımızın hackathon’a dair bazı duyuruları ve materyalleri takip edebilmek için giriş düzeyinde de olsa İngilizce bilmeleri gerekmektedir. 
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+ 
+## Takvim
+​
 
-### There's a horizontal rule below this.
+* Kuantum Programlamaya Giriş Atölyesi: 28 Eylül-2 Ekim
 
-* * *
+* Hackathon için Son Başvuru Tarihi : 3 Ekim
 
-### Here is an unordered list:
+* Katılımcıların Açıklanması: 5 Ekim
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+* Alan uzmanları sunuşları: 6-9 Ekim
 
-### And an ordered list:
+* Ekiplerin oluşturulması: 9 Ekim
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+* Etkinlik Başlangıcı: 10 Ekim 
 
-### And a nested list:
+​
+## Jüri Üyeleri
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+​
 
-### Small image
+<u>Akademik/Bilimsel Çalışmalar Kategorisi</u>
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+M. Bilge Demirköz (ODTÜ)
 
-### Large image
+Zafer Gedik (Sabancı Üniversitesi)
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Deniz Türkpençe (İTÜ)
 
+Mustafa Gündoğan (Berlin Humboldt Üniversitesi)
 
-### Definition lists can be used with HTML syntax.
+​
+<u>Endüstriyel / Teknolojik Çözümler Kategorisi</u>
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Hande Alemdar (ODTÜ -Sentiosports Kurucu Ortağı)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Ömer Ragıp Özkan (Pavotek Genel Müdür Yardımcısı)
 
-```
-The final element.
-```
+Ali Osman Çıbıkdiken (KTO Karatay Üniversitesi -TrueFeedBack CEO)
+
+Kadir Durak (Özyeğin Üniversitesi -Qubitrium Kurucusu)
+
+​
+<u>Eğitim Materyalleri Kategorisi</u>
+
+Özlem Salehi Köken (Özyeğin Üniversitesi)
+
+Cem Say (Boğaziçi Üniversitesi)
+
+Abuzer Yakaryılmaz (Letonya Üniversitesi)
+
+Ahmet Çevik (Jandarma ve Sahil Güvenlik Akademisi)
+
+​
+Hackathon sonunda sunum yapan ekiplere hackathonu tamamladıklarına dair  katılım sertifikası gönderilecektir. 
+
+İletişim için : [info@qturkey.org](mailto:info@qturkey.org)
